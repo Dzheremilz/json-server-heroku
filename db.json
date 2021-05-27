@@ -247,9 +247,39 @@
     "start": "rgb(86, 204, 242)",
     "end": "rgb(47, 128, 237)",
     "tags": [
-        "blue"
+        "bleu"
     ],
     "id": 26
+  },
+  {
+    "name": "Jupiter",
+    "start": "rgb(255, 216, 155)",
+    "end": "rgb(25, 84, 123)",
+    "tags": [
+        "beige",
+        "bleu"
+    ],
+    "id": 27
+  },
+  {
+    "name": "Alihossein",
+    "start": "rgb(247, 255, 0)",
+    "end": "rgb(219, 54, 164)",
+    "tags": [
+        "jaune",
+        "rose"
+    ],
+    "id": 28
+  },
+  {
+    "name": "Moche de fou",
+    "start": "rgb(255, 22, 22), rgb(0, 237, 21)",
+    "end": "rgb(238, 38, 38)",
+    "tags": [
+        "rouge",
+        "vert"
+    ],
+    "id": 29
   }
   ]
 }
