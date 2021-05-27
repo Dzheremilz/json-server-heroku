@@ -241,6 +241,15 @@
       "green"
     ],
     "id": 25
+  },
+  {
+    "name": "Blue skies",
+    "start": "rgb(86, 204, 242)",
+    "end": "rgb(47, 128, 237)",
+    "tags": [
+        "blue"
+    ],
+    "id": 26
   }
   ]
 }
