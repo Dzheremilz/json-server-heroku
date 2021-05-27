@@ -280,6 +280,17 @@
         "vert"
     ],
     "id": 29
+  },
+  {
+    "name": "Rastafari",
+    "start": "rgb(30, 150, 0), rgb(255, 242, 0)",
+    "end": "rgb(255, 0, 0)",
+    "tags": [
+      "vert",
+      "jaune",
+      "rouge"
+    ],
+    "id": 30
   }
   ]
 }
