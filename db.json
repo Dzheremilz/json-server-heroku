@@ -214,7 +214,7 @@
   "proposition": [
     {
       "id": "8cb58576-9471-4c2a-962a-cf26da66d412",
-      "name": "default name",
+      "name": "Test",
       "start": "rgb(0,0,0)",
       "end": "rgb(255,255,255)",
       "tags": ["blanc", "noir"]
