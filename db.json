@@ -4,304 +4,220 @@
       "name": "Grade Grey",
       "start": "rgb(189, 195, 199)",
       "end": "rgb(44, 62, 80)",
-      "tags": [
-        "gris"
-      ],
+      "tags": ["gris"],
       "id": 1
     },
     {
       "name": "Harvey",
       "start": "rgb(31, 64, 55)",
       "end": "rgb(153, 242, 200)",
-      "tags": [
-        "vert"
-      ],
+      "tags": ["vert"],
       "id": 2
     },
     {
       "name": "Rainbow Blue",
       "start": "rgb(0, 242, 96)",
       "end": "rgb(5, 117, 230)",
-      "tags": [
-        "bleu",
-        "vert"
-      ],
+      "tags": ["bleu", "vert"],
       "id": 3
     },
     {
       "name": "Slight Ocean View",
       "start": "rgb(168, 192, 255)",
       "end": "rgb(63, 43, 150)",
-      "tags": [
-        "bleu",
-        "violet"
-      ],
+      "tags": ["bleu", "violet"],
       "id": 4
     },
     {
       "name": "Crystal Clear",
       "start": "rgb(21, 153, 87)",
       "end": "rgb(21, 87, 153)",
-      "tags": [
-        "bleu",
-        "vert"
-      ],
+      "tags": ["bleu", "vert"],
       "id": 5
     },
     {
       "name": "Piggy Pink",
       "start": "rgb(238, 156, 167)",
       "end": "rgb(255, 221, 225)",
-      "tags": [
-        "rose"
-      ],
+      "tags": ["rose"],
       "id": 6
     },
     {
       "name": "Citrus Peel",
       "start": "rgb(253, 200, 48)",
       "end": "rgb(243, 115, 53)",
-      "tags": [
-        "jaune",
-        "orange"
-      ],
+      "tags": ["jaune", "orange"],
       "id": 7
     },
     {
       "name": "Ibiza Sunset",
       "start": "rgb(238, 9, 121)",
       "end": "rgb(255, 106, 0)",
-      "tags": [
-        "fuchsia",
-        "orange",
-        "rose"
-      ],
+      "tags": ["fuchsia", "orange", "rose"],
       "id": 8
     },
     {
       "name": "Fun Fun",
       "start": "rgb(0, 195, 255)",
       "end": "rgb(255, 255, 28)",
-      "tags": [
-        "bleu",
-        "jaune",
-        "vert"
-      ],
+      "tags": ["bleu", "jaune", "vert"],
       "id": 9
     },
     {
       "name": "Cosmic Fusion",
       "start": "rgb(255, 0, 204)",
       "end": "rgb(51, 51, 153)",
-      "tags": [
-        "fuchsia",
-        "violet"
-      ],
+      "tags": ["fuchsia", "violet"],
       "id": 10
     },
     {
       "name": "Sunrise",
       "start": "rgb(255, 126, 95)",
       "end": "rgb(254, 180, 123)",
-      "tags": [
-        "orange"
-      ],
+      "tags": ["orange"],
       "id": 11
     },
     {
       "name": "Sun on the Horizon",
       "start": "rgb(252, 234, 187)",
       "end": "rgb(248, 181, 0)",
-      "tags": [
-        "jaune"
-      ],
+      "tags": ["jaune"],
       "id": 12
     },
     {
       "name": "Sunset",
       "start": "rgb(11, 72, 107)",
       "end": "rgb(245, 98, 23)",
-      "tags": [
-        "orange"
-      ],
+      "tags": ["orange"],
       "id": 13
     },
     {
       "name": "Cherryblossoms",
       "start": "rgb(251, 211, 233)",
       "end": "rgb(187, 55, 125)",
-      "tags": [
-        "rose"
-      ],
+      "tags": ["rose"],
       "id": 14
     },
     {
       "name": "Joomla",
       "start": "rgb(30, 60, 114)",
       "end": "rgb(42, 82, 152)",
-      "tags": [
-        "bleu"
-      ],
+      "tags": ["bleu"],
       "id": 15
     },
     {
       "name": "Little Leaf",
       "start": "rgb(118, 184, 82)",
       "end": "rgb(141, 194, 111)",
-      "tags": [
-        "vert"
-      ],
+      "tags": ["vert"],
       "id": 16
     },
     {
       "name": "Curiosity blue",
       "start": "rgb(82, 82, 82)",
       "end": "rgb(61, 114, 180)",
-      "tags": [
-        "bleu",
-        "gris"
-      ],
+      "tags": ["bleu", "gris"],
       "id": 17
     },
     {
       "name": "Twitch",
       "start": "rgb(100, 65, 165)",
       "end": "rgb(42, 8, 69)",
-      "tags": [
-        "violet"
-      ],
+      "tags": ["violet"],
       "id": 18
     },
     {
       "name": "Nepal",
       "start": "rgb(222, 97, 97)",
       "end": "rgb(38, 87, 235)",
-      "tags": [
-        "bleu",
-        "mauve",
-        "violet"
-      ],
+      "tags": ["bleu", "mauve", "violet"],
       "id": 19
     },
     {
       "name": "Dance To Forget",
       "start": "rgb(255, 78, 80)",
       "end": "rgb(249, 212, 35)",
-      "tags": [
-        "jaune",
-        "orange"
-      ],
+      "tags": ["jaune", "orange"],
       "id": 20
     },
     {
       "name": "Moonrise",
       "start": "rgb(218, 226, 248)",
       "end": "rgb(214, 164, 164)",
-      "tags": [
-        "gris",
-        "rose"
-      ],
+      "tags": ["gris", "rose"],
       "id": 21
     },
     {
       "name": "YouTube",
       "start": "rgb(229, 45, 39)",
       "end": "rgb(179, 18, 23)",
-      "tags": [
-        "rouge"
-      ],
+      "tags": ["rouge"],
       "id": 22
     },
     {
       "name": "Green Beach",
       "start": "rgb(2, 170, 176)",
       "end": "rgb(0, 205, 172)",
-      "tags": [
-        "bleu",
-        "vert"
-      ],
+      "tags": ["bleu", "vert"],
       "id": 23
     },
     {
       "name": "Purple Love",
       "start": "rgb(204, 43, 94)",
       "end": "rgb(117, 58, 136)",
-      "tags": [
-        "mauve",
-        "rose"
-      ],
+      "tags": ["mauve", "rose"],
       "id": 24
     },
     {
       "name": "Harvey",
       "start": "rgb(31, 64, 55)",
       "end": "rgb(153, 242, 200)",
-      "tags": [
-        "vert",
-        "green"
-      ],
+      "tags": ["vert", "green"],
       "id": 25
     },
     {
       "name": "Blue skies",
       "start": "rgb(86, 204, 242)",
       "end": "rgb(47, 128, 237)",
-      "tags": [
-        "bleu"
-      ],
+      "tags": ["bleu"],
       "id": 26
     },
     {
       "name": "Jupiter",
       "start": "rgb(255, 216, 155)",
       "end": "rgb(25, 84, 123)",
-      "tags": [
-        "beige",
-        "bleu"
-      ],
+      "tags": ["beige", "bleu"],
       "id": 27
     },
     {
       "name": "Alihossein",
       "start": "rgb(247, 255, 0)",
       "end": "rgb(219, 54, 164)",
-      "tags": [
-        "jaune",
-        "rose"
-      ],
+      "tags": ["jaune", "rose"],
       "id": 28
     },
     {
       "name": "Moche de fou",
       "start": "rgb(255, 22, 22), rgb(0, 237, 21)",
       "end": "rgb(238, 38, 38)",
-      "tags": [
-        "rouge",
-        "vert"
-      ],
+      "tags": ["rouge", "vert"],
       "id": 29
     },
     {
       "name": "Rastafari",
       "start": "rgb(30, 150, 0), rgb(255, 242, 0)",
       "end": "rgb(255, 0, 0)",
-      "tags": [
-        "vert",
-        "jaune",
-        "rouge"
-      ],
+      "tags": ["vert", "jaune", "rouge"],
       "id": 30
     }
   ],
   "proposition": [
     {
-      "name": "Test",
-      "start": "rgb(0, 0, 0)",
-      "end": "rgb(255, 255, 255)",
-      "tags": [
-        "gris"
-      ],
-      "id": 1
+      "id": "8cb58576-9471-4c2a-962a-cf26da66d412",
+      "name": "default name",
+      "start": "rgb(0,0,0)",
+      "end": "rgb(255,255,255)",
+      "tags": ["blanc", "noir"]
     }
   ]
 }
